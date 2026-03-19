@@ -18,4 +18,5 @@
 - 核心逻辑：角度转弧度→计算余弦/正弦值→构建旋转矩阵。
 
 ## 四、结果展示
+<img width="800" height="470" alt="image" src="https://github.com/user-attachments/assets/8e945b81-2afe-49b3-ae62-f06cfa89896e" />
 
