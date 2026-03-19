@@ -21,4 +21,4 @@
 ### 1. 基本结果
 ![3D三角形旋转效果](ezgif-6dfc67f7eea34e38.gif)
 ### 1. 拓展结果
-![3D三角形旋转效果](ezgif-6dfc67f7eea34e38.gif)
+![3D三角形旋转效果](ezgif-44425d191107fa7c.gif)
